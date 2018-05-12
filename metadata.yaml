@@ -1,0 +1,37 @@
+_repo: The-Bay-and-Padie-BookKiddie-Songs_21874
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Dobbs, Cyril
+    gutenberg_agent_id: '24945'
+    url: http://www.gutenberg.org/2009/agents/24945
+  - agent_name: Hamilton, Vera
+    gutenberg_agent_id: '24944'
+    url: http://www.gutenberg.org/2009/agents/24944
+covers:
+- cover_type: archival
+  image_path: 21874-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Maurice, Furnley
+    alias: Wilmot, Frank Leslie Thomson
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '24943'
+    url: http://www.gutenberg.org/2009/agents/24943
+description: ''
+gutenberg_issued: '2007-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry, Australian'
+- !lcc 'PZ'
+title: 'The Bay and Padie Book
+
+  Kiddie Songs'
+url: http://www.gutenberg.org/ebooks/21874
